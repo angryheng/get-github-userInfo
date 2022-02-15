@@ -1,6 +1,6 @@
 {
   "name": "@wonders_group/get-github-userinfo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get github userInfo",
   "main": "src/index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/angryheng/get-github-userInfo/issues"
   },
-  "homepage": "https://github.com/angryheng/get-github-userInfo#readme"
+  "homepage": "https://github.com/angryheng/get-github-userInfo#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
 }
