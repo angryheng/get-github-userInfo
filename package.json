@@ -1,6 +1,6 @@
 {
   "name": "@wonders_group/get-github-userinfo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get github userInfo",
   "main": "src/index.js",
   "scripts": {
