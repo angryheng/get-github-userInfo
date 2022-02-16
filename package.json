@@ -1,0 +1,26 @@
+{
+  "name": "@wonders_group/get-github-userinfo",
+  "version": "1.0.2",
+  "description": "get github userInfo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angryheng/get-github-userInfo.git"
+  },
+  "keywords": [
+    "github",
+    "repos"
+  ],
+  "author": "angryheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angryheng/get-github-userInfo/issues"
+  },
+  "homepage": "https://github.com/angryheng/get-github-userInfo#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
